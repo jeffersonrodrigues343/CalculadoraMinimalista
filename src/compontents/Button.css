@@ -1,0 +1,21 @@
+.btn {
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 1px solid #888;
+    background-color: #444; /* Cor dos botões escuros */
+    color: white;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+    transition: all 0.1s;
+    font-family: 'Orbitron', sans-serif; /* Garante que a fonte seja a mesma */
+
+}
+
+/* Efeito ao clicar no botão */
+
+.btn:active {
+    box-shadow: inset 2px 2px 5px rgba(0,0,0,0.4);
+    transform: translateY(2px);
+}
+

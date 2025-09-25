@@ -1,0 +1,70 @@
+/*Importa a fonte que escolhemos */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+/* Estilo geral da página para centralizar a calculadora */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #555;
+  font-family: "Orbiton", sans-serif;
+}
+
+/* Corpo principal da calculadora */
+
+.calculator {
+  width: 320px;
+  padding: 20px;
+  background-color: #D3D3D3; /* Cinza claro do corpo */
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.5), inset 2px 2px 5px #fff;
+
+}
+
+/* Visor da calculadora */
+.display {
+
+  background-color: #C0C0AD; /* Fundo do visor */
+  border: 2px solid #888;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: right;
+  margin-bottom: 20px;
+  box-shadow: inset 2px 2px 5px rgba(0,0,0,0.3);
+  word-wrap: break-word; /* Garante que números longos quebrem a linha */
+  word-break: break-all;
+
+ }
+
+  /* Grid para os botões */
+  .buttons {
+
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    grid-template-rows: repeat(5, 1fr); /* 5 linhas de botões */
+    gap: 10px;
+    min-height: 350px; /* Apenas para visualizarmos a área */
+  }
+
+  /* Classes de Layout (Tamanho) */
+  .buttons .zero {
+    grid-column: span 2;
+  }
+
+  .buttons .equals {
+    grid-column: span 2;
+  }
+
+  /* Classes de Estilo (Cor) */
+  .buttons .func {
+    background-color: #AC3B3B; /* Vermelho escuro */
+  }
+
+  .buttons .op {
+    background-color: #3B82AC; /* Um azul para os operadores*/
+  }
+  .buttons .equals {
+    background-color: #3B6EAC; /*Um azul um pouco diferente para o igual */
+  }
