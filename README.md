@@ -1,4 +1,4 @@
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * Realiza as 4 operações matemáticas básicas (soma, subtração, multiplicação, divisão).
 * Interface reativa com feedback visual.
@@ -6,16 +6,15 @@
 * Suporte para números decimais.
 * Visor com histórico da operação anterior.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **React.js:** Biblioteca principal para a construção da interface.
 * **React Hooks (`useState`):** Para gerenciamento do estado dos operandos e da operação.
-* **JavaScript (ES6+):** Linguagem base para a lógica da aplicação.
+* **JavaScript :** Linguagem base para a lógica da aplicação.
 * **CSS3:** Para estilização e layout, recriando o design proposto.
-* **Vite.js:** Ferramenta de build para o ambiente de desenvolvimento.
 * **Git / GitHub:** Para controlo de versão.
 
-## 🚀 Como Rodar Localmente
+##  Como Rodar Localmente
 
 Siga os passos abaixo para executar o projeto na sua máquina:
 
