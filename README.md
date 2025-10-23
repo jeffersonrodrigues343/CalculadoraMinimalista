@@ -17,7 +17,8 @@ Uma simples calculadora web contruída com React.js como projeto de estudo para 
 * Ambiente Linux
 
 ## Como rodar na sua Máquina Localmente?
-# 1. Clone o repositório ** git clone github.com/jeffersonrodrigues343/Calculadora.git). **
-# 2. Entre na pasta ** cd/calculadora-react**.
-# 3. Instale as dependências **npm install.**
-# 4 Inicie o ambiente de desenvolvimento **npm run dev.**
+
+1. Clone o repositório ** git clone github.com/jeffersonrodrigues343/Calculadora.git). **
+2. Entre na pasta ** cd/calculadora-react**.
+3. Instale as dependências **npm install.**
+4 Inicie o ambiente de desenvolvimento **npm run dev.**
