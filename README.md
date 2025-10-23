@@ -23,4 +23,5 @@ Uma simples calculadora web contruída com React.js como projeto de estudo para 
 2. Entre na pasta **cd/calculadora-react.**
 3. Instale as dependências **npm install.**
 4. Inicie o ambiente de desenvolvimento **npm run dev.**
-
+5. Clique no link **http://localhost:x/.**
+6. E pronto.
