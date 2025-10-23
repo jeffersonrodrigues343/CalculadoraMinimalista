@@ -1,4 +1,5 @@
-![Design da Calculadora](./assets/calculadora.png)
+<img width="2398" height="1223" alt="calculadora" src="https://github.com/user-attachments/assets/0f2f223f-8fce-413b-a33d-0ac25855fc65" />
+
 
 # Calculadora Funcional com React.js
 Uma simples calculadora web contruída com React.js como projeto de estudo para práticar os fundamentos da bibliotca, especialmente o gerenciamento de estados.
@@ -18,7 +19,7 @@ Uma simples calculadora web contruída com React.js como projeto de estudo para 
 
 ## Como rodar na sua Máquina Localmente?
 
-1. Clone o repositório ** git clone github.com/jeffersonrodrigues343/Calculadora.git). **
-2. Entre na pasta ** cd/calculadora-react**.
+1. Clone o repositório **git clone github.com/jeffersonrodrigues343/Calculadora.git).**
+2. Entre na pasta **cd/calculadora-react.**
 3. Instale as dependências **npm install.**
 4 Inicie o ambiente de desenvolvimento **npm run dev.**
