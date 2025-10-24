@@ -1,3 +1,8 @@
+## Uma calculadora simples com React
+
+<img width="1198" height="824" alt="Screenshot 2025-10-23 at 21-55-10 Vite React" src="https://github.com/user-attachments/assets/e54119d3-0fe6-42a0-9067-e5c5e620e890" />
+
+
 ##  Funcionalidades
 
 * Realiza as 4 operações matemáticas básicas (soma, subtração, multiplicação, divisão).
