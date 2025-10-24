@@ -25,7 +25,7 @@ Siga os passos abaixo para executar o projeto na sua máquina:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/jeffersonrodrigues343/CalculadoraMinimalista.git](https://github.com/jeffersonrodrigues343/CalculadoraMinimalista.git)
+git clone [https://github.com/jeffersonrodrigues343/CalculadoraMinimalista.git]
 
 # 2. Navegue até a pasta do projeto
 cd CalculadoraMinimalista
